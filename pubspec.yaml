@@ -78,6 +78,10 @@ flutter:
      - family: CinzelDecorative
        fonts:
          - asset: fonts/CinzelDecorative-Regular.ttf
+
+     - family: Nunito
+       fonts:
+         - asset: fonts/Nunito-Black.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
